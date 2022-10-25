@@ -40,9 +40,9 @@ $pdf = new FPDF("L", "mm", array(350, 190));
 $pdf->AddPage();
 $pdf->SetFont('Arial','B', 16);
 agregarImagen($pdf, "../src/certificado.jpg",0,0);
-agregarTexto($pdf, ucwords(utf8_decode($alumno['nombre']." ".$alumno['apellidos'])), 108,55, 'L', 'Helvetica', 35,0,84,115);
-agregarTexto($pdf, $alumno['nombre_curso'], -375,100, 'C', 'Helvetica', 27,0,84,115);
-agregarTexto($pdf, date('d/m/Y'), -390,158, 'C', 'Helvetica', 17,0,84,115);
+agregarTexto($pdf, ucwords(utf8_decode($alumno['nombre']." ".$alumno['apellidos'])), 108,65, 'L', 'Helvetica', 35,0,84,115);
+agregarTexto($pdf, $alumno['nombre_curso'], -349,110, 'C', 'Helvetica', 27,0,84,115);
+agregarTexto($pdf, date('d/m/Y'), -385,159.5, 'C', 'Helvetica', 19,0,84,115);
 $pdf->Output();
 
 
