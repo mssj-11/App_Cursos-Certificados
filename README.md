@@ -13,4 +13,4 @@ Para cada vez que se elimine un registro y cada actualizacion en las tablas **cu
 </p>
 
 ## Libreria: [FPDF](http://www.fpdf.org/)
-
+Permitira generar documentos en formato PDF.
