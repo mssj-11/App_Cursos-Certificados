@@ -1,6 +1,40 @@
 # App Web Cursos & Certificaciones
 
 
+
+
+##  Login de Sesión
+<p aling="center">
+    <img src="readme-img/1.png" alt="">
+</p>
+
+##  Inicio
+<p aling="center">
+    <img src="readme-img/2.png" alt="">
+</p>
+
+##  Tabla Alumnos
+<p aling="center">
+    <img src="readme-img/3.png" alt="">
+</p>
+
+##  Tabla Cursos
+<p aling="center">
+    <img src="readme-img/4.png" alt="">
+</p>
+
+##  Certificado del alumno **Diego Orlando Magañez** en el curso **Desarrollo web con PHP**
+<p aling="center">
+    <img src="readme-img/5.png" alt="">
+</p>
+
+##  Certificado del alumno **Diego Orlando Magañez** en el curso **Curso GO Desde Cero**
+<p aling="center">
+    <img src="readme-img/6.png" alt="">
+</p>
+
+
+
 ## Base de Datos
 La DB se encontrara en la carpeta **DB**.
 
